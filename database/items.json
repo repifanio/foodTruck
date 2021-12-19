@@ -1,0 +1,42 @@
+[
+    {
+        "id": "a32be550-8da2-4631-822a-55ed38c9df9d",
+        "name": "Internal Tactics Designer",
+        "image": "http://placeimg.com/640/480",
+        "linkQrCode": "http://destiny.net",
+        "price": 91262.57,
+        "isActive": true
+    },
+    {
+        "id": "77049940-488d-43a8-b3f8-9dbb8aa9d162",
+        "name": "Legacy Markets Officer",
+        "image": "http://placeimg.com/640/480",
+        "linkQrCode": "http://herta.net",
+        "price": 36061.46,
+        "isActive": true
+    },
+    {
+        "id": "846350a0-e4fe-44b1-a6e1-de3d533fe074",
+        "name": "Principal Tactics Officer",
+        "image": "http://placeimg.com/640/480",
+        "linkQrCode": "http://julio.info",
+        "price": 43859.71,
+        "isActive": true
+    },
+    {
+        "id": "fa797645-e659-44da-9902-f1616c22c71c",
+        "name": "Future Configuration Officer",
+        "image": "http://placeimg.com/640/480",
+        "linkQrCode": "https://joany.info",
+        "price": 51642.21,
+        "isActive": true
+    },
+    {
+        "id": "8eaf6936-6f4e-4307-9d4d-b292a31a853a",
+        "name": "Product Identity Agent",
+        "image": "http://placeimg.com/640/480",
+        "linkQrCode": "https://claude.org",
+        "price": 56506.93,
+        "isActive": true
+    }
+]

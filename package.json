@@ -1,0 +1,22 @@
+{
+  "name": "foodTruck",
+  "version": "1.0.0",
+  "description": "This project is a system to organize all solicitations of foods on alimentation park of south summit 2022",
+  "main": "index.js",
+  "repository": "git@github.com:repifanio/foodTruck.git",
+  "author": "Rafael Epifanio",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^5.5.3"
+  },
+  "scripts": {
+    "test": "yarn mocha -w --parallel **/**/*.test.js",
+    "test:cov": "yarn nyc yarn mocha --parallel **/**/*.test.js",
+    "seed": "node ./seed"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3",
+    "nyc": "^15.1.0",
+    "sinon": "^12.0.1"
+  }
+}
