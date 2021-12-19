@@ -1,13 +1,13 @@
-import BaseReposity from "../repository/base/baseRepository"
+const BaseReposity = require('../repository/base/baseRepository')
 
 class PointOfSalesService {
     constructor({pointOfSales}){
         this.pointOfSales = new BaseReposity({file: pointOfSales})
     }
 
-    teste() {
-        return this.pointOfSales.find()
-    }
+    // async loadCatalogByQrCode(){
+    //     return null
+    // }
 }
 
 module.exports = PointOfSalesService
